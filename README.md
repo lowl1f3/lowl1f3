@@ -3,4 +3,4 @@
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/lowlif3)
-[![Discord](https://dcbadge.vercel.app/api/shield/330825971835863042)
+![Discord](https://dcbadge.vercel.app/api/shield/330825971835863042)
