@@ -2,5 +2,5 @@
 
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/lowlif3)
-[![Discord](https://img.shields.io/badge/discord-7289da?style=flat-square&logo=Discord)](https://discord.com/users/330825971835863042)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram)](https://t.me/lowlif3)
+[![Discord](https://img.shields.io/badge/discord-7289da?style=flat&logo=Discord)](https://discord.com/users/330825971835863042)
