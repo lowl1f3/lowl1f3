@@ -3,3 +3,6 @@
 ![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram)](https://t.me/lowlif3)
+[discord-news-badge]: https://discordapp.com/api/guilds/1006179075263561779/widget.png?style=shield
+[discord-link]: https://discord.gg/sSryhaEv79
+[![Discord][discord-news-badge]][discord-link]
