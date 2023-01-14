@@ -2,8 +2,8 @@
 
 ![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-[![Card](https://github-readme-stats.vercel.app/api/pin?username=lowl1f3&repo=Stuff&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/lowl1f3/Stuff)
-[![Card](https://github-readme-stats.vercel.app/api/pin?username=lowl1f3&repo=lowl1f3.github.io&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/lowl1f3/lowl1f3.github.io)
+[![Pin](https://github-readme-stats.vercel.app/api/pin?username=lowl1f3&repo=Script&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/lowl1f3/Stuff)
+[![Pin](https://github-readme-stats.vercel.app/api/pin?username=lowl1f3&repo=lowl1f3.github.io&show_owner=true&bg_color=22272E&text_color=9F9F9F&title_color=9F9F9F&icon_color=9F9F9F)](https://github.com/lowl1f3/lowl1f3.github.io)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lowlif3)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/330825971835863042)
@@ -14,6 +14,4 @@
 
 ![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=lowl1f3&count_private=false&show_icons=true&bg_color=22272E&text_color=9F9F9F"/>
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lowl1f3&count_private=false&show_icons=true&theme=radical)
