@@ -2,7 +2,7 @@
 
 ![Line](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-[![Pin](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=lowl1f3&repo=Script&show_owner=true&theme=radical)](https://github.com/lowl1f3/Script)
+[![Pin](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=lowl1f3&repo=Gerbera-Script&show_owner=true&theme=radical)](https://github.com/lowl1f3/Gerbera-Script)
 [![Pin](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin?username=lowl1f3&repo=lowl1f3.github.io&show_owner=true&&theme=radical)](https://github.com/lowl1f3/lowl1f3.github.io)
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lowlif3)
