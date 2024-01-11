@@ -20,13 +20,13 @@ I specialize in PowerShell scripting and automation. Whether it's streamlining r
 
 ## [Gerbera Script](https://github.com/lowl1f3/Gerbera-Script)
 
-[Gerbera Script](https://github.com/lowl1f3/Gerbera-Script) streamlines automation, effortlessly installing and customizing essential programs, offering a hassle-free and personalized computing experience. 🚀
+[Gerbera Script](https://github.com/lowl1f3/Gerbera-Script) streamlines automation, effortlessly installing and customizing essential programs, offering a hassle-free and personalized computing experience. Additionally, it embraces modern development practices, featuring a CI/CD pipeline powered by GitHub Actions🚀
 
 [![Pin](https://github-readme-stats.vercel.app/api/pin?username=lowl1f3&repo=Gerbera-Script&show_owner=true&theme=radical)](https://github.com/lowl1f3/Gerbera-Script)
 
 ## [GitHub Pages](https://github.com/lowl1f3/lowl1f3.github.io)
 
-Utilizing [GitHub Pages](https://github.com/lowl1f3/lowl1f3.github.io) as a redirect, I've created a seamless hub for my social links.
+Utilizing [GitHub Pages](https://github.com/lowl1f3/lowl1f3.github.io) as a redirect, I've created a seamless hub for my social links. As previous, built-in featuring a CI/CD pipeline powered by GitHub Actions🚀
 
 [![Pin](https://github-readme-stats.vercel.app/api/pin?username=lowl1f3&repo=lowl1f3.github.io&show_owner=true&&theme=radical)](https://github.com/lowl1f3/lowl1f3.github.io)
 
